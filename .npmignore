@@ -1,0 +1,8 @@
+Example/
+jest/
+coverage/
+node_modules/
+*.log
+npm-debug.log
+README.md
+LICENCE
